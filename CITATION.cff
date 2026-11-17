@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the original datasets."
+title: "Code for: A Self-Calibrating Physics-Guided Digital Twin with Explainable Machine Learning for Robust Fault Identification and Soiling Loss Quantification in Photovoltaic Systems"
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-11-17
+authors:
+  - family-names: "Abdel Aziz"
+    given-names: "Khaled Mohamad"
+    affiliation: "Faculty of Artificial Intelligence, Delta University for Science and Technology, Egypt"
+    email: "Khaled.ai_0047@ai.kfs.edu.eg"
+  - family-names: "Medhat"
+    given-names: "T."
+    affiliation: "Faculty of Artificial Intelligence, Kafrelsheikh University, Egypt"
+  - family-names: "Shams"
+    given-names: "Mahmoud Y."
+    affiliation: "Faculty of Artificial Intelligence, Kafrelsheikh University, Egypt"
+  - family-names: "Elseddik"
+    given-names: "Marwa"
+    affiliation: "Faculty of Artificial Intelligence, Kafrelsheikh University, Egypt"
+keywords:
+  - photovoltaic
+  - digital twin
+  - physics-guided machine learning
+  - explainable AI
+  - fault diagnosis
+  - soiling
